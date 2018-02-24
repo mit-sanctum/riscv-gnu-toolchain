@@ -1,6 +1,7 @@
 [submodule "riscv-binutils-gdb"]
 	path = riscv-binutils-gdb
 	url = ../riscv-binutils-gdb.git
+  branch = sanctum
 [submodule "riscv-gcc"]
 	path = riscv-gcc
 	url = ../riscv-gcc.git
